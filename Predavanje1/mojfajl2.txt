@@ -1,0 +1,1 @@
+Ovaj sistem ima arhitekturu x64
